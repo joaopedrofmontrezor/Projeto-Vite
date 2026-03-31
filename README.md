@@ -1,8 +1,8 @@
-TodoList com Autenticação (React + Vite + Firebase)
+-TodoList com Autenticação (React + Vite + Firebase)
 
-Este projeto é uma aplicação web simples de autenticação de usuários utilizando React, Vite e Firebase Authentication.
+-Este projeto é uma aplicação web simples de autenticação de usuários utilizando React, Vite e Firebase Authentication.
 
-O objetivo é permitir que usuários possam:
+-O objetivo é permitir que usuários possam:
 
 ✅ Criar sua conta;
 ✅ Fazer login;
@@ -82,7 +82,7 @@ export const auth = getAuth(app);
 ▶️ Como rodar o projeto:
 
 1. Clone o repositório com a URL:
-https://github.com/joaopedrofmontrezor/Projeto-React-Vite-Firebase
+https://github.com/joaopedrofmontrezor/Projeto-Vite
 e abra a pasta no VSCODE.
 2. Acesse a pasta
 cd vite-projeto
@@ -93,8 +93,4 @@ npm install firebase
 5. Rode o projeto
 npm run dev
 
-▶️ Prints de Aplicação:
 
-## Demonstração do Projeto
-
-### Painel do Firebase
